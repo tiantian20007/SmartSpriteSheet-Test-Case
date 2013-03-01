@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>10310002/10310002_idle_00.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{42, 42}, {39, 77}}</string>
+			<key>offset</key>
+			<string>{-6, 10}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{99, 76}, {39, 77}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>10310002/10310002_idle_01.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {39, 77}}</string>
+			<key>offset</key>
+			<string>{-6, 10}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{99, 76}, {39, 77}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>10310002/10310002_idle_02.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{121, 1}, {39, 77}}</string>
+			<key>offset</key>
+			<string>{-6, 10}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{99, 76}, {39, 77}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>10310002/10310002_idle_03.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{200, 80}, {39, 77}}</string>
+			<key>offset</key>
+			<string>{-6, 10}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{99, 76}, {39, 77}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>10310002/10310002_idle_04.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 159}, {39, 77}}</string>
+			<key>offset</key>
+			<string>{-6, 10}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{99, 76}, {39, 77}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>10310002/10310002_idle_05.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{82, 159}, {38, 77}}</string>
+			<key>offset</key>
+			<string>{-6, 10}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{100, 76}, {38, 77}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>10310002/10310002_idle_06.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{42, 159}, {38, 77}}</string>
+			<key>offset</key>
+			<string>{-6, 10}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{100, 76}, {38, 77}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>10310002/10310002_idle_07.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{42, 1}, {39, 77}}</string>
+			<key>offset</key>
+			<string>{-6, 10}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{99, 76}, {39, 77}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>10310002/10310002_idle_08.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{121, 42}, {39, 77}}</string>
+			<key>offset</key>
+			<string>{-6, 10}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{99, 76}, {39, 77}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>10310002/10310002_idle_09.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 80}, {39, 77}}</string>
+			<key>offset</key>
+			<string>{-6, 10}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{99, 76}, {39, 77}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>10310002/10310002_idle_10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{200, 1}, {39, 77}}</string>
+			<key>offset</key>
+			<string>{-6, 10}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{99, 76}, {39, 77}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{256, 256}</string>
+		<key>textureFileName</key>
+		<string>10310002.png</string>
+	</dict>
+</dict>
+</plist>
