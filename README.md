@@ -4,6 +4,7 @@ SmartSpriteSheet-Test-Case
 Cocosbuilder Smart Sprite Sheet Test Case
 
 Use Cocosbuilder 3.0 alpha 2 to open /SmartSheet/TestSmartSheet/sm.ccbproj
+
 Play the default timeline, you will see the perect animation.
 
 Then open the xcode project and run it, you will see some frames blur out.
