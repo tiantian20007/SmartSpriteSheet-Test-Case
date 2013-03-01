@@ -11,4 +11,5 @@ Then open the xcode project and run it, you will see some frames blur out.
 
 I think the problem is the texture packing cross, the plist is not rendered correctly: The animation is good when I packed those same texture frames using Zwoptex. 
 Tested on iOS 6.1.
-And I also test it in cocos2d-x, the result is the same.
+
+Also test it in cocos2d-x, the result is the same.
